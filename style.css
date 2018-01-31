@@ -249,4 +249,9 @@ footer a{
     background-color: #404040;
     cursor: pointer;
   }
+
+  header .wrapper {
+    width: 100%;
+    padding: 0;
+  }
 }
