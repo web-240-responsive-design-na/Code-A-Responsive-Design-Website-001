@@ -185,10 +185,6 @@ footer a{
 
 /* Tablet */
 @media screen and (max-width: 768px) {
-  footer {
-    background: red;
-  }
-
   #featured li {
     width: 46%;
   }
