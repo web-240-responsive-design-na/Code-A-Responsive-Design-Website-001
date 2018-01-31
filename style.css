@@ -182,7 +182,9 @@ footer a{
 }
 
 /* Media Queries */
-@media screen and (max-width: 700px) {
+
+/* Tablet */
+@media screen and (max-width: 768px) {
   footer {
     background: red;
   }
@@ -191,8 +193,8 @@ footer a{
     width: 46%;
   }
 }
-
-@media screen and (max-width: 400px) {
+/* Mobile */
+@media screen and (max-width: 480px) {
   #featured li {
     width: 92%;
   }
