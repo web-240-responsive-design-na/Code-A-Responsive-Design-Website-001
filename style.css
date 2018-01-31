@@ -204,6 +204,13 @@ footer a{
     margin: 10px auto 0;
     float: none;
   }
+
+  header nav ul li {
+    margin: 10px 0;
+    width: 20%;
+    padding: 0;
+    text-align: center;
+  }
 }
 /* Mobile */
 @media screen and (max-width: 480px) {
