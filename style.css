@@ -211,6 +211,11 @@ footer a{
     padding: 0;
     text-align: center;
   }
+
+  footer ul {
+    width: 48%;
+    text-align: center;
+  }
 }
 /* Mobile */
 @media screen and (max-width: 480px) {
