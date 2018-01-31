@@ -188,6 +188,12 @@ footer a{
   #featured li {
     width: 46%;
   }
+
+  header nav {
+    float: none;
+    clear: left;
+    width: 100%;
+  }
 }
 /* Mobile */
 @media screen and (max-width: 480px) {
