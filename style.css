@@ -223,4 +223,9 @@ footer a{
     width: 90%;
     margin: 20px 5%;
   }
+
+  footer ul {
+    width: 98%;
+    text-align: center;
+  }
 }
