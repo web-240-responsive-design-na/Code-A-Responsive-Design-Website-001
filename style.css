@@ -199,6 +199,11 @@ footer a{
     margin: 0;
     padding: 0;
   }
+
+  h1.logo {
+    margin: 10px auto 0;
+    float: none;
+  }
 }
 /* Mobile */
 @media screen and (max-width: 480px) {
