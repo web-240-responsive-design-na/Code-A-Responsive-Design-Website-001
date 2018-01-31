@@ -238,7 +238,6 @@ footer a{
   #main-banner img {
     position: relative;
     width: 100%;
-    left: -40%;
   }
 
   .burger-nav {
@@ -253,5 +252,11 @@ footer a{
   header .wrapper {
     width: 100%;
     padding: 0;
+  }
+
+  header nav ul {
+    overflow: hidden;
+    background: #505050;
+    height: 0;
   }
 }
