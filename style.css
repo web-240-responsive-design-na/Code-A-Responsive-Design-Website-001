@@ -194,6 +194,11 @@ footer a{
     clear: left;
     width: 100%;
   }
+
+  header nav ul {
+    margin: 0;
+    padding: 0;
+  }
 }
 /* Mobile */
 @media screen and (max-width: 480px) {
