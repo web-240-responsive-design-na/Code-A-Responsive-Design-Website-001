@@ -33,7 +33,11 @@
         <!-- Start homepage content -->
 
         <div id="main-banner">
-            <img src="images/banner.jpg" alt="Welcome to Resto">
+            <picture>
+              <source srcset="images/banner-small.jpg" media="(max-width: 480px)" />
+              <source srcset="images/banner-medium.jpg" media="(max-width: 768px)" />
+              <img srcset="images/banner.jpg" alt="pic" />
+            </picture>
         </div>
 
         <div class="wrapper">
